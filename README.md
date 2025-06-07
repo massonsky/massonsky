@@ -105,7 +105,7 @@
 
 ---
 
-<h2 align="center">Language&nbsp;Stats&nbsp;📊</h2>
+<!--<h2 align="center">Language&nbsp;Stats&nbsp;📊</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonskyi&layout=compact&hide=css,html&langs_count=10&theme=default" alt="top languages" />
 </p>
@@ -118,6 +118,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonskyi&theme=default" alt="streak" />
 </p>
+ -->
 
 ---
 
