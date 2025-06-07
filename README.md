@@ -98,7 +98,7 @@
 
 ---
 
-<h2 align="center">Contacts&nbsp;📫</h2>
+<!-- <h2 align="center">Contacts&nbsp;📫</h2>
 <p align="center">
   <a href="mailto:andrey.massonskyi@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -107,5 +107,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
-</p>
+</p> -->
 
