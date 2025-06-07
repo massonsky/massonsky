@@ -8,7 +8,7 @@
 
 <!-- Русская версия -->
 - 🗓 **24 года** • Инженер-программист I категории  
-- 💼 **Production code** с Dec 2021  
+- 💼 **Production code** с декабря 2021  
 - 💻 **Стек технологий:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **C++20/23**: Qt 6 · Boost · STL  
