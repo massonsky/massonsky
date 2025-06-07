@@ -7,7 +7,7 @@
 <h2 align="center">About&nbsp;Me&nbsp;🧑‍💻</h2>
 
 <!-- Русская версия -->
-- 🗓 **24 лет** • Инженер-программист I категории  
+- 🗓 **24 года** • Инженер-программист I категории  
 - 💼 **Production code** с Dec 2021  
 - 💻 **Стек технологий:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
