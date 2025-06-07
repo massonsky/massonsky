@@ -6,24 +6,19 @@
 
 <h2 align="center">About&nbsp;Me&nbsp;🧑‍💻</h2>
 
-- 🗓 **24 лет** • Software Engineer 
-- 💼 **Production code** с Dec 2021  
+- 🗓 **24 years old** • Software Engineer  
+- 💼 **Writing production code** since Dec 2021  
+<br>  
 - 💻 **Tech Stack**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **C++20/23**: Qt 6 · Boost · STL  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java**  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="18" style="vertical-align:middle;"/> **C#**  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> **C**  
-  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="18" style="vertical-align:middle;"/> **Flutter Desktop**  
+<br>  
 - 🎯 **Focus Areas:**  
     • Backend (microservices, gRPC)  
     • Desktop GUI (Qt, PySide, Tauri, Flutter)  
