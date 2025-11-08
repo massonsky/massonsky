@@ -11,7 +11,7 @@
 - 💼 **Production code** с декабря 2021  
 - 💻 **Стек технологий:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> **C**   \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/>  \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
@@ -37,7 +37,7 @@
 - 💼 **Production code** since Dec 2021  
 - 💻 **Tech Stack:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> **C**   \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/>\ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
