@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:007ACC,100:00C49A&text=Hey%20there%20👋&fontSize=38&fontAlignY=35&desc=I’m%20Andrey%20%E2%80%94%20Software%20Engineer&descAlignY=65" alt="header" />
 </p>
 
-
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "header"}}
-</tool_call>
-
 <p align="center">
   <!-- Dynamic counters -->
   <a href="https://github.com/massonsky">
@@ -70,9 +65,9 @@
 <br/><br/>
 
 <!-- DevOps & Tools -->
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1F7FCC" alt="Docker"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=2A5AC1" alt="Kubernetes"/></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=E8B400" alt="Linux"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1F7FCC" alt="Docker"/></a><br/>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=2A5AC1" alt="Kubernetes"/></a><br/>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=E8B400" alt="Linux"/></a><br/>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=D43C1E" alt="Git"/></a>
 </p>
 
