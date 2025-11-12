@@ -17,7 +17,7 @@
 
 <h2 align="center">Tech&nbsp;Stack&nbsp;⚙️</h2>
 
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-20/23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
@@ -83,9 +83,4 @@
 <!-- Animated footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
-</p>
-
-<!-- Hidden but functional Easter egg: click-to-copy badge -->
-<p align="center">
-  <sub><em>Click any badge to explore the tech! 💡</em></sub>
 </p>
