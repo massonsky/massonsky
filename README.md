@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -74,8 +73,6 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -92,9 +89,19 @@
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&background=0D111700&stroke=00C49A&ring=00C49A&fire=FF6B35&currStreakLabel=00C49A&sideLabels=FFFFFF&dates=999999" alt="streak" />
   </a>
     <br/>
+
+  <a href="https://github.com/massonsky?tab=overview&from=2025-01-01">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF" alt="top languages" />
+  </a>
 </p>
 
----
+### 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/massonsky">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=massonsky&theme=react-dark&bg_color=0D1117&color=00C49A&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
 
@@ -104,7 +111,7 @@
   </a>
 </p>
 
----
+
 
 ### 🔥 Pinned Repositories
 
@@ -116,7 +123,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=goodtools&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
   </a>
 </p>
----
+
 
 ### 📈 Activity Graph
 
@@ -126,8 +133,34 @@
   </a>
 </p>
 
----
+### 📦 Advanced Metrics (Languages, OSS, Community)
 
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/massonsky?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&config.timezone=Europe/Moscow&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&plugins.achievements=1&plugins.achievements.threshold=C&plugins.achievements.secrets=true&plugins.achievements.display=compact&plugins.lines=1" alt="Metrics" />
+  </a>
+</p>
+
+<!--![Build](https://github.com/massonsky/my-project/actions/workflows/ci.yml/badge.svg) -->
+<p align="center">
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/v/release/massonsky/gotree" alt="gotree1" />
+  </a>
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/last-commit/massonsky/gotree" alt="gotree2" />
+  </a>
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/issues/massonsky/gotree" alt="gotree3" />
+  </a>
+</p>
+<!-- Последний релиз -->
+![GitHub release](https://img.shields.io/github/v/release/massonsky/gotree)
+
+<!-- Последний коммит -->
+![Last commit](https://img.shields.io/github/last-commit/massonsky/my-project)
+
+<!-- Открытые issues -->
+![Issues](https://img.shields.io/github/issues/massonsky/my-project)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
 </p>
