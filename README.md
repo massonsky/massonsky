@@ -61,13 +61,13 @@
 <p align="center">
 
 <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3.8 →3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-20/23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-2024-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-1.x-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-7.x-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-17-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-23-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <br/>
 
 <!-- Backend & Concurrency -->
@@ -103,11 +103,11 @@
 
 <h2 align="center">GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=massonskyi&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF&icon_color=00C49A" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=massonsky&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF&icon_color=00C49A" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonskyi&layout=compact&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF" alt="top languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonskyi&theme=radical&border=007ACC&background=0D1117&stroke=00C49A&ring=00C49A&fire=00C49A&currStreakLabel=00C49A" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&border=007ACC&background=0D1117&stroke=00C49A&ring=00C49A&fire=00C49A&currStreakLabel=00C49A" alt="streak" />
 </p>
 
 <!-- Uncomment when ready to add contacts -->
