@@ -89,10 +89,6 @@
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&background=0D111700&stroke=00C49A&ring=00C49A&fire=FF6B35&currStreakLabel=00C49A&sideLabels=FFFFFF&dates=999999" alt="streak" />
   </a>
     <br/>
-
-  <a href="https://github.com/massonsky?tab=overview&from=2025-01-01">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF" alt="top languages" />
-  </a>
 </p>
 
 
