@@ -2,6 +2,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]  # раз в день
   workflow_dispatch:
+  user: massonsky
 jobs:
   metrics:
     runs-on: ubuntu-latest
