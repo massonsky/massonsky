@@ -65,9 +65,9 @@
 <br/><br/>
 
 <!-- DevOps & Tools -->
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1F7FCC" alt="Docker"/></a><br/>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=2A5AC1" alt="Kubernetes"/></a><br/>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=E8B400" alt="Linux"/></a><br/>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1F7FCC" alt="Docker"/></a><t/>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=2A5AC1" alt="Kubernetes"/></a><t/>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=E8B400" alt="Linux"/></a><t/>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=D43C1E" alt="Git"/></a>
 </p>
 
