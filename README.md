@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### 🧰 Tech Stack
+
 
 <p align="center">
 
@@ -73,7 +73,7 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-### 📊 GitHub Stats
+
 
 <p align="center">
   <a href="https://github.com/massonsky">
@@ -92,7 +92,7 @@
 </p>
 
 
-### 🏆 GitHub Trophies
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -102,7 +102,7 @@
 
 
 
-### 🔥 Pinned Repositories
+
 
 <p align="center">
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
@@ -114,7 +114,7 @@
 </p>
 
 
-### 📈 Activity Graph
+
 
 <p align="center">
   <a href="https://github.com/massonsky">
@@ -122,7 +122,7 @@
   </a>
 </p>
 
-### 📦 Advanced Metrics (Languages, OSS, Community)
+
 
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
