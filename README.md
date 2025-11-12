@@ -82,6 +82,7 @@
   <a href="https://github.com/massonsky">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=massonsky&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF&icon_color=00C49A" alt="stats" />
   </a>
+    <br/>
   <a href="https://github.com/massonsky?tab=overview&from=2025-01-01">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF" alt="top languages" />
   </a>
@@ -90,6 +91,7 @@
   <a href="https://github.com/massonsky">
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&background=0D111700&stroke=00C49A&ring=00C49A&fire=FF6B35&currStreakLabel=00C49A&sideLabels=FFFFFF&dates=999999" alt="streak" />
   </a>
+    <br/>
 </p>
 
 ---
@@ -108,15 +110,12 @@
 
 <p align="center">
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=YOUR_FIRST_REPO&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=gotree&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 1" />
   </a>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=YOUR_SECOND_REPO&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=goodtools&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
   </a>
 </p>
-
-> 💡 **Замените `YOUR_FIRST_REPO` и `YOUR_SECOND_REPO`** на названия ваших закреплённых репозиториев (например, `tauri-app`, `cv-pipeline`, `ebpf-fuzzer` и т.д.)
-
 ---
 
 ### 📈 Activity Graph
