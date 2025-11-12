@@ -11,7 +11,7 @@
 - 💼 **Production code** с декабря 2021  
 - 💻 **Стек технологий:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/>  \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
@@ -37,7 +37,7 @@
 - 💼 **Production code** since Dec 2021  
 - 💻 **Tech Stack:**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/>\ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
@@ -61,7 +61,7 @@
 <p align="center">
 
 <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3.8→3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.8 →3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-20/23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-2024-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-1.x-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -101,31 +101,25 @@
 
 ---
 
-<!--<h2 align="center">Language&nbsp;Stats&nbsp;📊</h2>
+<h2 align="center">GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonskyi&layout=compact&hide=css,html&langs_count=10&theme=default" alt="top languages" />
-</p>
-
----
-
-<h2 align="center">GitHub&nbsp;Stats&nbsp;🏆</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=massonskyi&show_icons=true&include_all_commits=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=massonskyi&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF&icon_color=00C49A" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonskyi&theme=default" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonskyi&layout=compact&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF" alt="top languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonskyi&theme=radical&border=007ACC&background=0D1117&stroke=00C49A&ring=00C49A&fire=00C49A&currStreakLabel=00C49A" alt="streak" />
 </p>
- -->
 
----
-
-<!-- <h2 align="center">Contacts&nbsp;📫</h2>
+<!-- Uncomment when ready to add contacts -->
+<!--
+<h2 align="center">Contacts&nbsp;📫</h2>
 <p align="center">
   <a href="mailto:andrey.massonskyi@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andrey-massonskyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
-</p> -->
-
+</p>
