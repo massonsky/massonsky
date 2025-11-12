@@ -126,7 +126,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/massonsky/massonsky/master/metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/massonsky/massonsky/master/github-metrics.svg" alt="Metrics" />
 </p>
 
 <!--![Build](https://github.com/massonsky/my-project/actions/workflows/ci.yml/badge.svg) -->
