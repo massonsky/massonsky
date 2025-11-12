@@ -4,59 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:007ACC,100:00C49A&text=Hey%20there%20👋&fontSize=38&fontAlignY=35&desc=I’m%20Andrey%20%E2%80%94%20Software%20Engineer&descAlignY=65" alt="header" />
 </p>
 
-<h2 align="center">About&nbsp;Me&nbsp;🧑‍💻</h2>
-
-<!-- Русская версия -->
-- 🗓 **24 года** • Инженер-программист I категории  
-- 💼 **Production code** с декабря 2021  
-- 💻 **Стек технологий:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="18" style="vertical-align:middle;"/> **C#**  only educational projects
-
-- 🎯 **Направления:**  
-  • Backend (микросервисы, gRPC)  
-  • Desktop GUI (Qt, PySide, Tauri, Flutter)  
-  • Алгоритмы & структуры данных  
-  • Компьютерное зрение (OpenCV)  
-  • Прикладной ML (scikit-learn, PyTorch)  
-
-- 💡 **Страсть:**  
-  • Чистый код & соблюдение SOLID/KISS/DRY  
-  • Непрерывное саморазвитие и личный рост  
-  • Оптимизация производительности (SIMD, lock-free)  
-  • eBPF, fuzzing, межъязыковое FFI  
-
----
-
-<!-- English version -->
-- 🗓 **24 y.o.** • Software Engineer  
-- 💼 **Production code** since Dec 2021  
-- 💻 **Tech Stack:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="18" style="vertical-align:middle;"/> **Python 3.8–3.13**: FastAPI · PySide 6 · NumPy · Numba · pandas  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="18" style="vertical-align:middle;"/> \ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="18" style="vertical-align:middle;"/> **С\C++20/23**: Qt 6 · Boost · STL  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="18" style="vertical-align:middle;"/> **Rust**: Tauri · Backend · WASM  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="18" style="vertical-align:middle;"/> **Go**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="18" style="vertical-align:middle;"/> **Java** 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="18" style="vertical-align:middle;"/> **C#**  only educational projects
-  
-- 🎯 **Focus Areas:**  
-  • Backend (microservices, gRPC)  
-  • Desktop GUI (Qt, PySide, Tauri, Flutter)  
-  • Algorithms & Data Structures  
-  • Computer Vision (OpenCV)  
-  • Applied ML (scikit-learn, PyTorch)  
-
-- 💡 **Passion:**  
-  • Clean Code & adherence to SOLID/KISS/DRY  
-  • Continuous self-development and personal growth  
-  • Performance optimization (SIMD, lock-free)  
-  • eBPF, fuzzing, cross-language FFI  
----
-
 <h2 align="center">Tech&nbsp;Stack&nbsp;⚙️</h2>
 <p align="center">
 
