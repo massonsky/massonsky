@@ -1,5 +1,10 @@
 <!-- Profile README generated 2025-06-07 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:007ACC,100:00C49A&text=Hey%20there%20👋&fontSize=38&fontAlignY=35&desc=I’m%20Andrey%20%E2%80%94%20Software%20Engineer&descAlignY=65" alt="header" />
+</p>
+
+
 <tool_call>
 {"name": "search_image", "arguments": {"prompt": "header"}}
 </tool_call>
@@ -16,6 +21,7 @@
     <img src="https://custom-icon-badges.demolab.com/github/stars/massonsky?color=F7D358&labelColor=F5A623&style=for-the-badge&logo=star&logoColor=white&label=Total+Stars" alt="stars" />
   </a>
 </p>
+
 
 ---
 
@@ -70,4 +76,29 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=D43C1E" alt="Git"/></a>
 </p>
 
-<!-- Остальной контент (Stats, Quick Actions, Easter Egg и т.д.) остаётся без изменений -->
+
+<h2 align="center">GitHub Stats 📊</h2>
+<p align="center">
+  <!-- Stats with link to profile -->
+  <a href="https://github.com/massonsky">
+    <img src="https://github-readme-stats.vercel.app/api?username=massonsky&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF&icon_color=00C49A" alt="GitHub stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/massonsky?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D1117&text_color=FFFFFF" alt="Top languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/massonsky">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&border=007ACC&background=0D1117&stroke=00C49A&ring=00C49A&fire=00C49A&currStreakLabel=00C49A" alt="GitHub streak" />
+  </a>
+</p>
+
+<!-- Dynamic visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=massonsky&color=00C49A&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
+</p>
