@@ -1,15 +1,22 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]  # раз в день
+  schedule:
+    - cron: "0 0 * * *"  # раз в день
   workflow_dispatch:
-  user: massonsky
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ← явно разрешаем запись в репозиторий
     steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}  # ← внутри with!
           user: massonsky
           template: classic
           base: header, activity, community, repositories, metadata
@@ -24,3 +31,5 @@ jobs:
           plugins_achievements_secrets: true
           plugins_achievements_display: compact
           plugin_lines: true
+          output_action: push
+          filename: github-metrics.svg
