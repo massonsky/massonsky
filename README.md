@@ -124,10 +124,9 @@
 
 
 
+
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://metrics.lecoq.io/massonsky?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&config.timezone=Europe/Moscow&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&plugins.achievements=1&plugins.achievements.threshold=C&plugins.achievements.secrets=true&plugins.achievements.display=compact&plugins.lines=1" alt="Metrics" />
-  </a>
+  <img src="https://raw.githubusercontent.com/massonsky/massonsky/master/metrics.svg" alt="Metrics" />
 </p>
 
 <!--![Build](https://github.com/massonsky/my-project/actions/workflows/ci.yml/badge.svg) -->
