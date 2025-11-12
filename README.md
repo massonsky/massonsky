@@ -76,7 +76,7 @@
 </p>
 
 <!-- Dynamic visitor counter -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=massonsky&color=00C49A&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
