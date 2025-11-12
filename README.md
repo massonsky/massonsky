@@ -95,13 +95,6 @@
   </a>
 </p>
 
-### 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/massonsky">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=massonsky&theme=react-dark&bg_color=0D1117&color=00C49A&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
 
 ### 🏆 GitHub Trophies
 
@@ -144,23 +137,16 @@
 <!--![Build](https://github.com/massonsky/my-project/actions/workflows/ci.yml/badge.svg) -->
 <p align="center">
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/v/release/massonsky/gotree" alt="gotree1" />
+    <img src="https://img.shields.io/github/v/release/massonsky/goodtools" alt="goodtools" />
   </a>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/last-commit/massonsky/gotree" alt="gotree2" />
+    <img src="https://img.shields.io/github/last-commit/massonsky/gotree" alt="gotree" />
   </a>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/issues/massonsky/gotree" alt="gotree3" />
+    <img src="https://img.shields.io/github/issues/massonsky/gotree" alt="gotree2" />
   </a>
 </p>
-<!-- Последний релиз -->
-![GitHub release](https://img.shields.io/github/v/release/massonsky/gotree)
 
-<!-- Последний коммит -->
-![Last commit](https://img.shields.io/github/last-commit/massonsky/my-project)
-
-<!-- Открытые issues -->
-![Issues](https://img.shields.io/github/issues/massonsky/my-project)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C49A,100:007ACC&section=footer" alt="footer" />
 </p>
