@@ -111,6 +111,9 @@
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=goodtools&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
   </a>
+    <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=buffalo&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
+  </a>
 </p>
 
 
