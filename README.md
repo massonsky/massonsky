@@ -22,9 +22,6 @@
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=massonsky&theme=radical&background=0D111700&stroke=00C49A&ring=00C49A&fire=FF6B35&currStreakLabel=00C49A&sideLabels=FFFFFF&dates=999999" />
     <br/>
-    **1,244** Total Contributions<br/>
-    **May 20, 2020 - Present** Longest Streak<br/>
-    **May 11, 2025 - May 24, 2025** Current Streak
   </div>
 </div>
 
