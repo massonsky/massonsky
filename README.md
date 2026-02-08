@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,ts,react,fastapi,grpc,qt,docker,kubernetes,linux,git,pytorch,opencv,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,c, csharp, go,ts,react,fastapi,grpc,qt,docker,kubernetes,linux,git,pytorch,opencv,prometheus,grafana" />
 </p>
 
 <p align="center">
