@@ -21,12 +21,10 @@
 <p align="center">
 
 <!-- Languages -->
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-2024-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.x-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></a>
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-7.x-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/></a>
-<a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/></a>
 <a href="https://en.cppreference.com/w/c/23"><img src="https://img.shields.io/badge/C-23-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/></a>
 <br/><br/>
 
@@ -43,34 +41,7 @@
 <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat&logo=grpc&logoColor=white" alt="gRPC"/></a>
 <a href="https://pkg.go.dev/net/http"><img src="https://img.shields.io/badge/Go-1.x-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></a>
 <a href="https://docs.python.org/3/library/asyncio.html"><img src="https://img.shields.io/badge/asyncio-Python-3776AB?style=flat&logo=python&logoColor=white" alt="asyncio"/></a>
-<a href="https://numba.pydata.org/"><img src="https://img.shields.io/badge/Numba-JIT-00A573?style=flat&logo=numba&logoColor=white" alt="Numba"/></a>
-<a href="https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/advanced/wasm">
-  <img src="https://img.shields.io/badge/Proxy--Wasm-Envoy-654FF0?style=flat&logo=envoy&logoColor=white" alt="Proxy-Wasm" />
-</a>
 <br/><br/>
-
-<!-- GUI Frameworks -->
-<a href="https://www.qt.io/"><img src="https://img.shields.io/badge/Qt-6-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"/></a>
-<a href="https://pyside.org/"><img src="https://img.shields.io/badge/PySide6-Qt-41B883?style=flat&logo=qt&logoColor=white" alt="PySide6"/></a>
-<a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-Rust-000000?style=flat&logo=tauri&logoColor=white" alt="Tauri"/></a>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-Desktop-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/></a>
-<br/><br/>
-
-<!-- CV & ML -->
-<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-3/4-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/></a>
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-<br/><br/>
-
-<!-- Observability & Infra -->
-<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
-<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
 
@@ -100,10 +71,6 @@
   </a>
 </p>
 
-
-
-
-
 <p align="center">
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=gotree&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 1" />
@@ -113,16 +80,11 @@
   </a>
 </p>
 
-
-
-
 <p align="center">
   <a href="https://github.com/massonsky">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=massonsky&theme=react-dark&bg_color=0D1117&color=00C49A&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
-
-
 
 
 <p align="center">
@@ -132,13 +94,13 @@
 <!--![Build](https://github.com/massonsky/my-project/actions/workflows/ci.yml/badge.svg) -->
 <p align="center">
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/v/release/massonsky/goodtools" alt="goodtools" />
+    <img src="https://img.shields.io/github/v/release/massonsky/buffalo" alt="buffalo" />
   </a>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/last-commit/massonsky/gotree" alt="gotree" />
+    <img src="https://img.shields.io/github/last-commit/massonsky/buffalo" alt="buffalo" />
   </a>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/issues/massonsky/gotree" alt="gotree2" />
+    <img src="https://img.shields.io/github/issues/massonsky/buffalo" alt="buffalo" />
   </a>
 </p>
 
