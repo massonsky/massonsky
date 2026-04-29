@@ -50,19 +50,7 @@
   <a href="https://github.com/massonsky">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=massonsky&show_icons=true&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF&icon_color=00C49A" alt="stats" />
   </a>
-  <p align="center">
-  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/v/release/massonsky/buffalo" alt="buffalo" />
-  </a>
-  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/last-commit/massonsky/buffalo" alt="buffalo" />
-  </a>
-  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/github/issues/massonsky/buffalo" alt="buffalo" />
-  </a>
-</p>
-
-    <br/>
+  <br/>
   <a href="https://github.com/massonsky?tab=overview&from=2025-01-01">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massonsky&layout=compact&theme=radical&border_color=007ACC&bg_color=0D111700&text_color=FFFFFF" alt="top languages" />
   </a>
@@ -84,9 +72,22 @@
 </p>
 
 <p align="center">
+  <br>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=buffalo&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
   </a>
+  <p align="center">
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/v/release/massonsky/buffalo" alt="buffalo" />
+  </a>
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/last-commit/massonsky/buffalo" alt="buffalo" />
+  </a>
+  <a href="https://github.com/massonsky?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/github/issues/massonsky/buffalo" alt="buffalo" />
+  </a>
+</p>
+</br>
   <a href="https://github.com/massonsky?tab=repositories&sort=updated">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=massonsky&repo=umi-web&theme=radical&border_color=007ACC&bg_color=0D111700" alt="Pinned repo 2" />
   </a>
